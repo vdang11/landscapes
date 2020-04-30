@@ -1,0 +1,24 @@
+#section1, #section2, #section3
+{
+    margin-top:50px;
+    margin-bottom: 110px;
+    padding-top:45px;
+    text-align: center;
+}
+#section4
+{
+    margin-top:0;
+    margin-bottom: 0;
+}
+#appear {
+    top: 150px;
+    left: 37%;
+	position:fixed;
+    font-size: 250%;
+    font-weight: 900;
+    color:white;
+    font-family: "Times New Roman", Times, serif;
+}
+p{
+    padding-left: 10px;
+}
